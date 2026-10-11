@@ -1,0 +1,6 @@
+{
+  "name": "CartRoute - Grocery Price & Route Optimizer",
+  "description": "Find the cheapest local grocery prices across Walmart, Costco, Aldi, Kroger, Fry's, Safeway, and Bashas'. Compare item availability, clip exclusive store coupons, and build fuel-optimized shopping routes with list export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
